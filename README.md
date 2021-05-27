@@ -24,7 +24,7 @@ Using this CRUD application, a user can use the create, read, update, and delete
 
 This project is used to create a database and use CRUD applications. With this database the user can create, delete, and update the information using sequalize.
 
-<img src = https://raw.githubusercontent.com/Brownies-SE/Employee-Tracker/main/img/Capture.PNG>
+<img src = https://j.gifs.com/mqZ4DG.gif>
 
 # License
 
